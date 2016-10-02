@@ -1,7 +1,7 @@
 clear all
 warning off
 
-displayIntermediateFigures = true;
+displayIntermediateFigures = false;
 
 datapath =  ('.\');
 fileName = 'input1.mp4';
